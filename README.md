@@ -1,0 +1,2 @@
+# SHAAI
+machine learning study
